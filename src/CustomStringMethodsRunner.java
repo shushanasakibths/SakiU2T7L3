@@ -1,4 +1,5 @@
 public class CustomStringMethodsRunner {
+    // hello
     public static void main(String[] args) {
         CustomStringMethods methods = new CustomStringMethods();
         String str = "";
